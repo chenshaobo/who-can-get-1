@@ -6,7 +6,10 @@
 //  Copyright © 2016年 chensb. All rights reserved.
 //
 
-import Foundation
 
-let ROW = 4
-let COLUMN = 6
+
+let ROW = 6
+let COLUMN = 10
+
+let SCENE_BOUND = 100.0
+let SPRITE_START_Y =  (SCENE_BOUND / 2)
